@@ -1,0 +1,4 @@
+2023/03/16-19:30:31.763 3b5c Log #3: 3 ops saved to Table #4 OK
+2023/03/16-19:30:32.773 3b5c Archiving C:\Users\lanzo\Documents\Coding\fralda-scraper\tokens\fralda\Default\File System\Origins/000003.log: IO error: C:\Users\lanzo\Documents\Coding\fralda-scraper\tokens\fralda\Default\File System\Origins/000003.log: Could not rename file: File currently in use. (ChromeMethodBFE: 14::RenameFile::2)
+2023/03/16-19:30:32.773 3b5c Table #4: 3 entries OK
+2023/03/16-19:30:33.781 3b5c Archiving C:\Users\lanzo\Documents\Coding\fralda-scraper\tokens\fralda\Default\File System\Origins/MANIFEST-000001: IO error: C:\Users\lanzo\Documents\Coding\fralda-scraper\tokens\fralda\Default\File System\Origins/MANIFEST-000001: Could not rename file: File currently in use. (ChromeMethodBFE: 14::RenameFile::2)

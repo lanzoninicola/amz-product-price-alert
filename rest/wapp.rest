@@ -1,0 +1,12 @@
+###
+POST http://localhost:3333/api/wapp/sendMessage
+Content-Type: application/json
+
+{
+    "transport": "wppconnect",
+    "to": "55469910520499",
+    "message": "Hello World"
+}
+
+###
+GET http://localhost:3333/api/wapp/status
